@@ -20,9 +20,9 @@
 
 ### 📫 Let's Connect!  
 - LinkedIn: [https://www.linkedin.com/in/anvesha-jain-92aa62293/?trk=products_details_guest_profile_link](#)  
-- GitHub: [(https://github.com/yourusername)](https://github.com/AnveshaJain11)  
+- GitHub: [(https://github.com/AnveshaJain11)]  
 - Email: anveshajain1145@gmail.com  
 
 Feel free to check out my repositories and connect with me! 🚀
 ---
-# about-me
+## about-me
